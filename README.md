@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working as a full stack laravel developer<br>🌱 I’m currently trying to learn fucking js correctly<br>
+I’m currently working as a full stack laravel developer
 
 
 ## 🌐 Socials:
