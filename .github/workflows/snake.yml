@@ -1,0 +1,42 @@
+name: Snake
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main, profile-redesign]
+    paths: [.github/workflows/snake.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            ${{ runner.temp }}/snake/snake.svg
+            ${{ runner.temp }}/snake/snake-dark.svg?palette=github-dark
+
+      # ponytail: one commit per day on `output` (history grows slowly); switch to a squashing action if it ever matters.
+      - name: Publish to the output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git ls-remote --exit-code --heads origin output >/dev/null; then
+            git fetch --depth=1 origin output
+            git checkout -B output origin/output
+          else
+            git checkout --orphan output
+            git rm -rf --quiet .
+          fi
+          cp "$RUNNER_TEMP"/snake/*.svg .
+          git add snake.svg snake-dark.svg
+          git diff --cached --quiet || { git commit -m "Update snake"; git push origin output; }

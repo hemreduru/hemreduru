@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-label="Hurşit Emre Duru, full-stack Laravel developer in Cyprus">
+  <title>Hurşit Emre Duru — full-stack Laravel developer</title>
+  <defs>
+    <clipPath id="type"><rect x="48" y="166" height="30" width="0"><animate attributeName="width" calcMode="discrete" dur="2.6s" begin="0.8s" fill="freeze" values="0.0;10.8;21.6;32.4;43.2;54.0;64.8;75.6;86.4;97.2;108.0;118.8;129.6;140.4;151.2;162.0;172.8;183.6;194.4;205.2;216.0;226.8;237.6;248.4;259.2;270.0;280.8;291.6;302.4;313.2;324.0;334.8;345.6;356.4;367.2;378.0;388.8;399.6" keyTimes="0.0000;0.0270;0.0541;0.0811;0.1081;0.1351;0.1622;0.1892;0.2162;0.2432;0.2703;0.2973;0.3243;0.3514;0.3784;0.4054;0.4324;0.4595;0.4865;0.5135;0.5405;0.5676;0.5946;0.6216;0.6486;0.6757;0.7027;0.7297;0.7568;0.7838;0.8108;0.8378;0.8649;0.8919;0.9189;0.9459;0.9730;1"/></rect></clipPath>
+    <linearGradient id="ul" x1="0" x2="1"><stop offset="0" stop-color="#ff7b6b"/><stop offset="1" stop-color="#ff7b6b" stop-opacity="0"/></linearGradient>
+  </defs>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace}
+    .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+  </style>
+  <rect x="1" y="1" width="958" height="258" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <g>
+    <circle cx="30" cy="28" r="5.5" fill="#ff5f56"/><circle cx="50" cy="28" r="5.5" fill="#ffbd2e"/><circle cx="70" cy="28" r="5.5" fill="#27c93f"/>
+    <text x="480" y="33" text-anchor="middle" class="mono" font-size="13" fill="#8b949e">~/hemreduru</text>
+  </g>
+  <line x1="1" x2="959" y1="50" y2="50" stroke="#30363d"/>
+  <text x="48" y="96" class="mono" font-size="16" fill="#8b949e">$ whoami</text>
+  <text x="48" y="146" class="sans" font-size="46" font-weight="700" fill="#e6edf3" letter-spacing="-1">Hurşit Emre Duru</text>
+  <rect x="48" y="154" width="0" height="3" rx="1.5" fill="url(#ul)"><animate attributeName="width" values="0;330" dur="0.8s" begin="0s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></rect>
+  <text x="48" y="188" class="mono" font-size="18" fill="#c9d1d9" clip-path="url(#type)">full-stack Laravel developer · Cyprus</text>
+  <rect x="48" y="171" width="10" height="20" fill="#ff7b6b">
+    <animate attributeName="x" calcMode="discrete" dur="2.6s" begin="0.8s" fill="freeze" values="48.0;58.8;69.6;80.4;91.2;102.0;112.8;123.6;134.4;145.2;156.0;166.8;177.6;188.4;199.2;210.0;220.8;231.6;242.4;253.2;264.0;274.8;285.6;296.4;307.2;318.0;328.8;339.6;350.4;361.2;372.0;382.8;393.6;404.4;415.2;426.0;436.8;447.6" keyTimes="0.0000;0.0270;0.0541;0.0811;0.1081;0.1351;0.1622;0.1892;0.2162;0.2432;0.2703;0.2973;0.3243;0.3514;0.3784;0.4054;0.4324;0.4595;0.4865;0.5135;0.5405;0.5676;0.5946;0.6216;0.6486;0.6757;0.7027;0.7297;0.7568;0.7838;0.8108;0.8378;0.8649;0.8919;0.9189;0.9459;0.9730;1"/>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" begin="3.4s" repeatCount="indefinite"/>
+  </rect>
+  <g fill="#ffd8a8">
+    <circle cx="640" cy="90" r="2"><animate attributeName="opacity" values="0.15;1;0.15" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="905" cy="205" r="2.5"><animate attributeName="opacity" values="1;0.15;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="690" cy="215" r="1.8"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.5s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="930" cy="110" r="1.8"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" begin="0.5s" repeatCount="indefinite"/></circle>
+  </g>
+  <g transform="translate(790 160)">
+    <animateTransform attributeName="transform" type="translate" values="790 160;790 155;790 160" dur="3.2s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    <ellipse cx="0" cy="62" rx="50" ry="30" fill="#f2a65a" stroke="#8a4b1c" stroke-width="3"/>
+    <polygon points="-58,-18 -52,-74 -14,-44" fill="#f2a65a" stroke="#8a4b1c" stroke-width="3" stroke-linejoin="round"/>
+    <polygon points="58,-18 52,-74 14,-44" fill="#f2a65a" stroke="#8a4b1c" stroke-width="3" stroke-linejoin="round"/>
+    <polygon points="-50,-30 -47,-58 -27,-42" fill="#ffb3b3"/>
+    <polygon points="50,-30 47,-58 27,-42" fill="#ffb3b3"/>
+    <ellipse cx="0" cy="0" rx="62" ry="50" fill="#f2a65a" stroke="#8a4b1c" stroke-width="3"/>
+    <g stroke="#8a4b1c" stroke-width="3" stroke-linecap="round"><line x1="-8" y1="-44" x2="-8" y2="-32"/><line x1="0" y1="-46" x2="0" y2="-32"/><line x1="8" y1="-44" x2="8" y2="-32"/></g>
+    <g fill="#1f2328">
+      <ellipse cx="-24" cy="-4" rx="7" ry="8"><animate attributeName="ry" values="8;8;0.6;8;8" keyTimes="0;0.9;0.93;0.96;1" dur="4.5s" repeatCount="indefinite"/></ellipse>
+      <ellipse cx="24" cy="-4" rx="7" ry="8"><animate attributeName="ry" values="8;8;0.6;8;8" keyTimes="0;0.9;0.93;0.96;1" dur="4.5s" repeatCount="indefinite"/></ellipse>
+    </g>
+    <circle cx="-22" cy="-7" r="2.4" fill="#fff"/><circle cx="26" cy="-7" r="2.4" fill="#fff"/>
+    <circle cx="-42" cy="14" r="8" fill="#ff8f8f" opacity="0.45"/><circle cx="42" cy="14" r="8" fill="#ff8f8f" opacity="0.45"/>
+    <polygon points="-5,10 5,10 0,17" fill="#ff8f8f" stroke="#8a4b1c" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M0 17 q-5 8 -11 4 M0 17 q5 8 11 4" fill="none" stroke="#8a4b1c" stroke-width="2.5" stroke-linecap="round"/>
+    <g stroke="#8a4b1c" stroke-width="2" stroke-linecap="round" opacity="0.8"><line x1="-50" y1="8" x2="-76" y2="2"/><line x1="-50" y1="16" x2="-76" y2="20"/><line x1="50" y1="8" x2="76" y2="2"/><line x1="50" y1="16" x2="76" y2="20"/></g>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.0001;0.02;0.9;1" dur="9s" begin="3.6s" repeatCount="indefinite"/>
+    <rect x="850" y="56" width="74" height="32" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+    <polygon points="858,88 866,88 856,98" fill="#161b22" stroke="#30363d" stroke-width="1.5" stroke-linejoin="round"/>
+    <rect x="852" y="86" width="16" height="3" fill="#161b22"/>
+    <text x="887" y="77" text-anchor="middle" class="mono" font-size="14" fill="#e6edf3">meow</text>
+  </g>
+</svg>
