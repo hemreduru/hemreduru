@@ -10,15 +10,15 @@ I build tools I wish existed: self-hosted, offline-first, and boring to run. Lar
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel,php,mysql,tailwind,vue,rust,docker,linux&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel,php,mysql,tailwind,vue,rust,docker,linux&theme=light">
-    <img alt="Laravel, PHP, MySQL, Tailwind, Vue, Rust, Docker, Linux" src="https://skillicons.dev/icons?i=laravel,php,mysql,tailwind,vue,rust,docker,linux">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel%2Cphp%2Cmysql%2Ctailwind%2Cvue%2Crust%2Cdocker%2Clinux&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel%2Cphp%2Cmysql%2Ctailwind%2Cvue%2Crust%2Cdocker%2Clinux&theme=light">
+    <img alt="Laravel, PHP, MySQL, Tailwind, Vue, Rust, Docker, Linux" src="https://skillicons.dev/icons?i=laravel%2Cphp%2Cmysql%2Ctailwind%2Cvue%2Crust%2Cdocker%2Clinux">
   </picture>
 </p>
 
 ## Projects
 
-| | |
+| Project | What it is |
 | :-- | :-- |
 | **[linotch](https://github.com/hemreduru/linotch)** · `Rust` | A usage notch for Linux. Claude Code and Codex limits plus media controls, tucked onto a screen edge. |
 | **[vizier](https://github.com/hemreduru/vizier)** · `PHP` | Ask your database in plain Turkish or English, get safe read-only reports. Self-hosted, cheap LLMs. |
