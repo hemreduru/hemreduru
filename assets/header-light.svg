@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-label="Hurşit Emre Duru, full-stack Laravel developer in Cyprus">
+  <title>Hurşit Emre Duru — full-stack Laravel developer</title>
+  <defs>
+    <clipPath id="type"><rect x="48" y="166" height="30" width="0"><animate attributeName="width" calcMode="discrete" dur="2.6s" begin="0.8s" fill="freeze" values="0.0;10.8;21.6;32.4;43.2;54.0;64.8;75.6;86.4;97.2;108.0;118.8;129.6;140.4;151.2;162.0;172.8;183.6;194.4;205.2;216.0;226.8;237.6;248.4;259.2;270.0;280.8;291.6;302.4;313.2;324.0;334.8;345.6;356.4;367.2;378.0;388.8;399.6" keyTimes="0.0000;0.0270;0.0541;0.0811;0.1081;0.1351;0.1622;0.1892;0.2162;0.2432;0.2703;0.2973;0.3243;0.3514;0.3784;0.4054;0.4324;0.4595;0.4865;0.5135;0.5405;0.5676;0.5946;0.6216;0.6486;0.6757;0.7027;0.7297;0.7568;0.7838;0.8108;0.8378;0.8649;0.8919;0.9189;0.9459;0.9730;1"/></rect></clipPath>
+    <linearGradient id="ul" x1="0" x2="1"><stop offset="0" stop-color="#cf3b2b"/><stop offset="1" stop-color="#cf3b2b" stop-opacity="0"/></linearGradient>
+  </defs>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace}
+    .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+  </style>
+  <rect x="1" y="1" width="958" height="258" rx="16" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+  <g>
+    <circle cx="30" cy="28" r="5.5" fill="#ff5f56"/><circle cx="50" cy="28" r="5.5" fill="#ffbd2e"/><circle cx="70" cy="28" r="5.5" fill="#27c93f"/>
+    <text x="480" y="33" text-anchor="middle" class="mono" font-size="13" fill="#57606a">~/hemreduru</text>
+  </g>
+  <line x1="1" x2="959" y1="50" y2="50" stroke="#d0d7de"/>
+  <text x="48" y="96" class="mono" font-size="16" fill="#57606a">$ whoami</text>
+  <text x="48" y="146" class="sans" font-size="46" font-weight="700" fill="#1f2328" letter-spacing="-1">Hurşit Emre Duru</text>
+  <rect x="48" y="154" width="0" height="3" rx="1.5" fill="url(#ul)"><animate attributeName="width" values="0;330" dur="0.8s" begin="0s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/></rect>
+  <text x="48" y="188" class="mono" font-size="18" fill="#424a53" clip-path="url(#type)">full-stack Laravel developer · Cyprus</text>
+  <rect x="48" y="171" width="10" height="20" fill="#cf3b2b">
+    <animate attributeName="x" calcMode="discrete" dur="2.6s" begin="0.8s" fill="freeze" values="48.0;58.8;69.6;80.4;91.2;102.0;112.8;123.6;134.4;145.2;156.0;166.8;177.6;188.4;199.2;210.0;220.8;231.6;242.4;253.2;264.0;274.8;285.6;296.4;307.2;318.0;328.8;339.6;350.4;361.2;372.0;382.8;393.6;404.4;415.2;426.0;436.8;447.6" keyTimes="0.0000;0.0270;0.0541;0.0811;0.1081;0.1351;0.1622;0.1892;0.2162;0.2432;0.2703;0.2973;0.3243;0.3514;0.3784;0.4054;0.4324;0.4595;0.4865;0.5135;0.5405;0.5676;0.5946;0.6216;0.6486;0.6757;0.7027;0.7297;0.7568;0.7838;0.8108;0.8378;0.8649;0.8919;0.9189;0.9459;0.9730;1"/>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" begin="3.4s" repeatCount="indefinite"/>
+  </rect>
+  <g fill="#d98a2b">
+    <circle cx="640" cy="90" r="2"><animate attributeName="opacity" values="0.15;1;0.15" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="905" cy="205" r="2.5"><animate attributeName="opacity" values="1;0.15;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="690" cy="215" r="1.8"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.5s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="930" cy="110" r="1.8"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" begin="0.5s" repeatCount="indefinite"/></circle>
+  </g>
+  <g transform="translate(730 122)" shape-rendering="crispEdges">
+<g opacity="0.18"><g fill="#0969da"><rect x="35" y="60" width="90" height="5"/><rect x="35" y="65" width="90" height="5"/><rect x="35" y="70" width="90" height="5"/><rect x="35" y="75" width="90" height="5"/><rect x="35" y="80" width="90" height="5"/><rect x="35" y="85" width="90" height="5"/><rect x="35" y="90" width="90" height="5"/><rect x="35" y="95" width="90" height="5"/><rect x="35" y="100" width="90" height="5"/><rect x="35" y="105" width="90" height="5"/></g><animate attributeName="opacity" values="0.1;0.3;0.1" dur="3s" repeatCount="indefinite"/></g>
+<g>
+<animateTransform attributeName="transform" type="translate" calcMode="discrete" values="0 0;0 5;0 0" keyTimes="0;0.5;1" dur="2.4s" repeatCount="indefinite"/>
+<g fill="#2b1d15"><rect x="60" y="0" width="40" height="5"/><rect x="55" y="5" width="10" height="5"/><rect x="85" y="5" width="20" height="5"/><rect x="50" y="10" width="10" height="5"/><rect x="70" y="10" width="40" height="5"/><rect x="50" y="15" width="60" height="5"/><rect x="50" y="20" width="20" height="5"/><rect x="80" y="20" width="30" height="5"/><rect x="50" y="25" width="5" height="5"/><rect x="105" y="25" width="5" height="5"/><rect x="50" y="30" width="5" height="5"/><rect x="105" y="30" width="5" height="5"/></g>
+<g fill="#5a4030"><rect x="65" y="5" width="20" height="5"/><rect x="60" y="10" width="10" height="5"/></g>
+<g fill="#efbd95"><rect x="70" y="20" width="10" height="5"/><rect x="55" y="25" width="50" height="5"/><rect x="45" y="30" width="5" height="5"/><rect x="55" y="30" width="50" height="5"/><rect x="110" y="30" width="5" height="5"/><rect x="45" y="35" width="70" height="5"/><rect x="50" y="40" width="60" height="5"/><rect x="50" y="45" width="5" height="5"/><rect x="65" y="45" width="5" height="5"/><rect x="75" y="45" width="10" height="5"/><rect x="90" y="45" width="5" height="5"/><rect x="105" y="45" width="5" height="5"/><rect x="55" y="50" width="20" height="5"/><rect x="85" y="50" width="20" height="5"/></g>
+<g fill="#e8877a"><rect x="55" y="45" width="10" height="5"/><rect x="95" y="45" width="10" height="5"/></g>
+<g fill="#9b5040"><rect x="70" y="45" width="5" height="5"/><rect x="85" y="45" width="5" height="5"/><rect x="75" y="50" width="10" height="5"/></g>
+<rect x="60" y="35" width="10" height="10" fill="#1f2328"><animate attributeName="y" values="35;35;45;35;35" keyTimes="0;0.9;0.93;0.96;1" dur="4.5s" repeatCount="indefinite"/><animate attributeName="height" values="10;10;2;10;10" keyTimes="0;0.9;0.93;0.96;1" dur="4.5s" repeatCount="indefinite"/></rect><rect x="90" y="35" width="10" height="10" fill="#1f2328"><animate attributeName="y" values="35;35;45;35;35" keyTimes="0;0.9;0.93;0.96;1" dur="4.5s" repeatCount="indefinite"/><animate attributeName="height" values="10;10;2;10;10" keyTimes="0;0.9;0.93;0.96;1" dur="4.5s" repeatCount="indefinite"/></rect>
+</g>
+<g fill="#2b44a8"><rect x="45" y="55" width="20" height="5"/><rect x="95" y="55" width="20" height="5"/><rect x="70" y="60" width="20" height="5"/><rect x="25" y="65" width="5" height="5"/><rect x="130" y="65" width="5" height="5"/><rect x="25" y="70" width="5" height="5"/><rect x="130" y="70" width="5" height="5"/><rect x="25" y="75" width="5" height="5"/><rect x="130" y="75" width="5" height="5"/><rect x="25" y="80" width="5" height="5"/><rect x="130" y="80" width="5" height="5"/><rect x="25" y="85" width="5" height="5"/><rect x="130" y="85" width="5" height="5"/><rect x="25" y="90" width="5" height="5"/><rect x="130" y="90" width="5" height="5"/><rect x="25" y="95" width="5" height="5"/><rect x="130" y="95" width="5" height="5"/><rect x="25" y="100" width="15" height="5"/><rect x="120" y="100" width="15" height="5"/></g>
+<g fill="#efbd95"><rect x="65" y="55" width="30" height="5"/></g>
+<g fill="#3b5bdb"><rect x="30" y="60" width="35" height="5"/><rect x="95" y="60" width="35" height="5"/><rect x="30" y="65" width="10" height="5"/><rect x="120" y="65" width="10" height="5"/><rect x="30" y="70" width="10" height="5"/><rect x="120" y="70" width="10" height="5"/><rect x="30" y="75" width="10" height="5"/><rect x="120" y="75" width="10" height="5"/><rect x="30" y="80" width="10" height="5"/><rect x="120" y="80" width="10" height="5"/><rect x="30" y="85" width="10" height="5"/><rect x="120" y="85" width="10" height="5"/><rect x="30" y="90" width="10" height="5"/><rect x="120" y="90" width="10" height="5"/><rect x="30" y="95" width="10" height="5"/><rect x="120" y="95" width="10" height="5"/></g>
+<g fill="#f6f8fa"><rect x="65" y="60" width="5" height="5"/><rect x="90" y="60" width="5" height="5"/></g>
+<g fill="#424a53"><rect x="40" y="65" width="80" height="5"/><rect x="40" y="70" width="5" height="5"/><rect x="115" y="70" width="5" height="5"/><rect x="40" y="75" width="5" height="5"/><rect x="115" y="75" width="5" height="5"/><rect x="40" y="80" width="5" height="5"/><rect x="115" y="80" width="5" height="5"/><rect x="40" y="85" width="5" height="5"/><rect x="115" y="85" width="5" height="5"/><rect x="40" y="90" width="5" height="5"/><rect x="115" y="90" width="5" height="5"/><rect x="40" y="95" width="5" height="5"/><rect x="115" y="95" width="5" height="5"/><rect x="40" y="100" width="80" height="5"/></g>
+<g fill="#0f172a"><rect x="45" y="70" width="70" height="5"/><rect x="45" y="75" width="70" height="5"/><rect x="45" y="80" width="70" height="5"/><rect x="45" y="85" width="70" height="5"/><rect x="45" y="90" width="70" height="5"/><rect x="45" y="95" width="70" height="5"/></g>
+<g fill="#afb8c1"><rect x="30" y="105" width="100" height="5"/></g>
+<g fill="#6e7781"><rect x="30" y="110" width="100" height="5"/></g>
+<rect x="50" y="70" width="15" height="5" fill="#ff7b6b"><animate attributeName="width" calcMode="discrete" values="15;15;20;15;10;15" dur="2.7s" begin="0s" repeatCount="indefinite"/></rect><rect x="70" y="70" width="20" height="5" fill="#79c0ff"><animate attributeName="width" calcMode="discrete" values="20;25;20;15;25;20" dur="3.1s" begin="0.4s" repeatCount="indefinite"/></rect><rect x="55" y="80" width="30" height="5" fill="#7ee787"><animate attributeName="width" calcMode="discrete" values="30;30;35;20;35;30" dur="3.3s" begin="0.2s" repeatCount="indefinite"/></rect><rect x="50" y="90" width="10" height="5" fill="#f2cc60"><animate attributeName="width" calcMode="discrete" values="10;15;15;10;15;15" dur="2.9s" begin="0s" repeatCount="indefinite"/></rect><rect x="65" y="90" width="25" height="5" fill="#79c0ff"><animate attributeName="width" calcMode="discrete" values="25;30;15;30;30;25" dur="3.7s" begin="0.7s" repeatCount="indefinite"/></rect><rect x="105" y="90" width="5" height="5" fill="#ffffff"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="0.8s" repeatCount="indefinite"/></rect>
+<g fill="#efbd95"><rect x="30" y="105" width="15" height="5"/><animateTransform attributeName="transform" type="translate" calcMode="discrete" values="0 0;0 -5;0 0;0 0" keyTimes="0;0.25;0.5;0.75" dur="0.7s" begin="0s" repeatCount="indefinite"/></g><g fill="#efbd95"><rect x="115" y="105" width="15" height="5"/><animateTransform attributeName="transform" type="translate" calcMode="discrete" values="0 0;0 -5;0 0;0 0" keyTimes="0;0.25;0.5;0.75" dur="0.7s" begin="0.35s" repeatCount="indefinite"/></g>
+<g fill="#cf3b2b"><rect x="135" y="100" width="10" height="5"/><rect x="135" y="105" width="15" height="5"/><rect x="135" y="110" width="10" height="5"/></g>
+<g fill="#c58d5f"><rect x="5" y="115" width="150" height="5"/></g>
+<g fill="#94643f"><rect x="10" y="120" width="140" height="5"/><rect x="10" y="125" width="140" height="5"/></g>
+<g fill="#8c959f"><rect x="135" y="90" width="5" height="5"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="2.2s" repeatCount="indefinite"/></rect><rect x="140" y="85" width="5" height="5"><animate attributeName="opacity" values="0.9;0.1;0.9" dur="2.2s" repeatCount="indefinite"/></rect></g>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.0001;0.02;0.9;1" dur="9s" begin="3.6s" repeatCount="indefinite"/>
+    <rect x="850" y="56" width="60" height="32" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/>
+    <polygon points="856,88 864,88 852,104" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5" stroke-linejoin="round"/>
+    <rect x="857" y="86" width="6" height="3" fill="#f6f8fa"/>
+    <text x="880" y="77" text-anchor="middle" class="mono" font-size="14" fill="#1f2328">&lt;/&gt;</text>
+  </g>
+</svg>
